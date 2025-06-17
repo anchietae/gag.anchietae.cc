@@ -1,0 +1,119 @@
+{
+    "carrot": {
+        "price": 10
+    },
+    "strawberry": {
+        "price": 50
+    },
+    "blueberry": {
+        "price": 400
+    },
+    "orange_tulip": {
+        "price": 600
+    },
+    "tomato": {
+        "price": 800
+    },
+    "corn": {
+        "price": 1300
+    },
+    "daffodil": {
+        "price": 1000
+    },
+    "watermelon": {
+        "price": 2500
+    },
+    "pumpkin": {
+        "price": 3000
+    },
+    "apple": {
+        "price": 3250
+    },
+    "bamboo": {
+        "price": 4000
+    },
+    "coconut": {
+        "price": 6000
+    },
+    "cactus": {
+        "price": 15000
+    },
+    "dragon_fruit": {
+        "price": 50000
+    },
+    "mango": {
+        "price": 100000
+    },
+    "grape": {
+        "price": 850000
+    },
+    "mushroom": {
+        "price": 150000
+    },
+    "pepper": {
+        "price": 1000000
+    },
+    "cacao": {
+        "price": 2500000
+    },
+    "beanstalk": {
+        "price": 10000000
+    },
+    "ember_lily": {
+        "price": 15000000
+    },
+    "sugar_apple": {
+        "price": 25000000
+    },
+    "watering_can": {
+        "price": 50000
+    },
+    "trowel": {
+        "price": 100000
+    },
+    "recall_wrench": {
+        "price": 150000
+    },
+    "basic_sprinkler": {
+        "price": 25000
+    },
+    "advanced_sprinkler": {
+        "price": 50000
+    },
+    "godly_sprinkler": {
+        "price": 120000
+    },
+    "lightning_rod": {
+        "price": 1000000
+    },
+    "master_sprinkler": {
+        "price": 10000000
+    },
+    "cleaning_spray": {
+        "price": 15000000
+    },
+    "favorite_tool": {
+        "price": 20000000
+    },
+    "harvest_tool": {
+        "price": 30000000
+    },
+    "friendship_pot": {
+        "price": 15000000
+    },
+    "common_egg": {
+        "price": 50000
+    },
+    "uncommon_egg": {
+        "price": 150000
+    },
+    "rare_egg": {
+        "price": 600000
+    },
+    "legendary_egg": {
+        "price": 3000000
+    },
+    "mythical_egg": {
+        "price": 8000000
+    }
+}
